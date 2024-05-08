@@ -1,4 +1,5 @@
-alert('Hello World!');
-// Display favorite food in index page
-let favoriteFood = 'Pizza';
-document.write(favoriteFood);
+let pokemonList= [
+    {name: 'Dragonite', height: 7, type:['Dragon','Flying']},
+    {name: 'Salazzle', height: 5, type:['Poison','Fire']},
+    {name: 'Giritina', height: 8, type:['Dragon','Ghost']},
+];
